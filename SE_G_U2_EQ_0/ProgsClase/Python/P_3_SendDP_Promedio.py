@@ -5,6 +5,7 @@ arduino = None
 
 arduino = s.Serial("/dev/cu.usbmodem1101", baudrate=9600, timeout=1)
 
+
 lista = []
 totlecturas = 5
 i = 0
