@@ -89,6 +89,30 @@
      </rect>
     </property>
    </widget>
+   <widget class="QPushButton" name="btn_control_led">
+    <property name="geometry">
+     <rect>
+      <x>360</x>
+      <y>40</y>
+      <width>181</width>
+      <height>71</height>
+     </rect>
+    </property>
+    <property name="font">
+     <font>
+      <pointsize>20</pointsize>
+      <weight>75</weight>
+      <bold>true</bold>
+     </font>
+    </property>
+    <property name="styleSheet">
+     <string notr="true">background-color: rgb(254, 169, 158);
+color: rgb(189, 255, 241);</string>
+    </property>
+    <property name="text">
+     <string>PRENDER</string>
+    </property>
+   </widget>
   </widget>
   <widget class="QMenuBar" name="menubar">
    <property name="geometry">
