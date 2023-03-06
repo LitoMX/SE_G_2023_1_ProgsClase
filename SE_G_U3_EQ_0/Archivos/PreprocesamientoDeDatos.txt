@@ -1,0 +1,14 @@
+
+
+Estandirización
+		
+		Zx = (x - promedio)/desvEstand
+
+
+
+Normalización
+Complemento
+
+Eliminación de Valores atípicos (outliers)
+
+Discretizacion 

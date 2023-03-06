@@ -1,8 +1,8 @@
 //Actuadores analogicos. -> PWM
 
 int actuador1 = 3;
-int actuador2 = 5;
-int actuador3 = 6;
+int actuador1 = 5;
+int actuador1 = 6;
 
 void setup() {
   // put your setup code here, to run once:
