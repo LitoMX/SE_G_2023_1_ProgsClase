@@ -126,11 +126,12 @@ print("Total de aciertos: " + str(contAciertos))
 print("Total de pruebas: " + str(len(prueba)))
 print("Rendimiento: " + str(contAciertos/len(prueba)*100))
 
-#Practica:
+#Practica 2:
 #Realizar la aplicación de KNN para el calculo del rendimiento de la técnica utilizando la instancia WINE
 #   Consideraciones:
 #           *Añadir el código necesario para realizar la busqueda automatizada del valor de K que de mejores resultados
 #           *Reportar que valor de K es el mejor y que rendimiento genera
 #           *PROBAR OTRAS METRICAS DE SIMILITUD
-#           *Generar matriz de confusión
+#           *Generar matriz de confusión**
 
+#Práctica 3:

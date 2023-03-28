@@ -26,7 +26,7 @@ for l in lista:
     print(l)
 print("\n\n")
 
-# Ejemplo:
+#Pasar a ... Ejemplo:
 # [ [ [ '80', '90' ,..., '90' ], 'Guerrero'],
 #   [ [ '75', '59' ,..., '90' ], 'Duelista']
 # ]
